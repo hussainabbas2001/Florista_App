@@ -1,22 +1,22 @@
 @font-face {
   font-family: "Voyage";
   font-weight: 100;
-  src: url(./fontts/voyage-regular.ttf);
+  src: url(./fontts/voyage-regular.woff);
 }
 @font-face {
   font-family: "Voyage";
   font-weight: 900;
-  src: url(./fontts/voyage-regular.ttf);
+  src: url(./fontts/voyage-regular.woff);
 }
 @font-face {
   font-family: "Voyage";
   font-weight: 800;
-  src: url(./fontts/voyage-regular.ttf);
+  src: url(./fontts/voyage-regular.woff);
 }
 @font-face {
   font-family: "Brush Script MT";
   font-weight: 500;
-  src: url(./fontts/BRUSHSCI.TTF);
+  src: url(./fontts/BRUSHSCI.woff);
 }
 
 /*  */
